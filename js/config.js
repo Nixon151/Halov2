@@ -121,7 +121,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Thank you for connecting to CrimsonRoleplay HaloRP",
+	"Thank you for connecting to Blacklight Servers HaloRP",
 	
 	
 ];
