@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Blacklight Servers";
+var l_serverName = "Praetorian Networks";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -96,16 +96,16 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=Hr6dlbhLKdk", name: "Halo Reach Theme"},
+	{youtube: "", name: ""},
 
 ];
 
